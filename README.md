@@ -32,10 +32,9 @@ A simple Chrome extension that hides paid schematics on [minecraft-schematics.co
 
 ## Status
 
-> [!INFO]
-> - Temporary project  
-> - No toggle on/off inside the extension  
-> - Requires Developer Mode to install  
+- Temporary project  
+- No toggle on/off inside the extension  
+- Requires Developer Mode to install  
 
 ---
 

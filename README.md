@@ -41,8 +41,7 @@ A simple Chrome extension that hides paid schematics on [minecraft-schematics.co
 
 ## Contributing
 
-> [!HINT]
-> This is a personal, temporary project. Contributions are optional. Feel free to fork or modify for personal use.
+This is a personal, temporary project. Contributions are optional. Feel free to fork or modify for personal use.
 
 ---
 

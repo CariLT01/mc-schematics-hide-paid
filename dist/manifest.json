@@ -1,13 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "My TypeScript Extension",
-  "version": "1.0.0",
-  "description": "A Chrome Extension using TypeScript and Webpack",
+  "name": "Minecraft Schematics Hide Paid",
+  "version": "0.0.1",
+  "description": "Hides paid schematics on minecraft-schematics.com",
   "content_scripts": [
     {
       "matches": ["https://www.minecraft-schematics.com/*"],
       "js": ["content.js"],
-      "run_at": "document_idle"
+      "run_at": "document_end"
     }
   ]
 }

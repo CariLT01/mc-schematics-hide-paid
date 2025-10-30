@@ -25,7 +25,7 @@ function removePaidElements() {
     });
 
         // Your XPath
-    const xpath = '/html/body/div[2]/div[3]/div[2]';
+    /*const xpath = '/html/body/div[2]/div[3]/div[2]';
 
     // Evaluate the XPath
     const result = document.evaluate(
@@ -77,7 +77,7 @@ function removePaidElements() {
             indexValue += 1;
             localRowCounter = 0;
         }
-    })
+    })*/
     
 
 }
@@ -87,4 +87,4 @@ function initialize() {
     removePaidElements();
 }
 
-window.onload = initialize;
+initialize();
